@@ -1,0 +1,44 @@
+Iteration: 1
+Change of new_p is : 1.36430185439 
+
+
+Iteration: 2
+Change of new_p is : 0.479806367821 
+
+
+Iteration: 3
+Change of new_p is : 0.191236253345 
+
+
+Iteration: 4
+Change of new_p is : 0.0705941582925 
+
+
+Iteration: 5
+Change of new_p is : 0.0270119155211 
+
+
+Iteration: 6
+Change of new_p is : 0.00949745120334 
+
+
+Iteration: 7
+Change of new_p is : 0.00340391857357 
+
+
+Iteration: 8
+Change of new_p is : 0.00120953643644 
+
+
+Iteration: 9
+Change of new_p is : 0.000459679165807 
+
+
+Iteration: 10
+Change of new_p is : 0.000170745749997 
+
+
+Iteration: 11
+Change of new_p is : 6.34113840151e-05 
+
+

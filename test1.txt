@@ -1,0 +1,132 @@
+Iteration: 1
+Change of new_p is : 1.28320038629 
+
+
+Iteration: 2
+Change of new_p is : 0.483753747533 
+
+
+Iteration: 3
+Change of new_p is : 0.232476595586 
+
+
+Iteration: 4
+Change of new_p is : 0.128737115247 
+
+
+Iteration: 5
+Change of new_p is : 0.0717514476282 
+
+
+Iteration: 6
+Change of new_p is : 0.0454567346732 
+
+
+Iteration: 7
+Change of new_p is : 0.0295437990926 
+
+
+Iteration: 8
+Change of new_p is : 0.0203267766352 
+
+
+Iteration: 9
+Change of new_p is : 0.0149177659937 
+
+
+Iteration: 10
+Change of new_p is : 0.0116432692661 
+
+
+Iteration: 11
+Change of new_p is : 0.00926145861941 
+
+
+Iteration: 12
+Change of new_p is : 0.00746919864769 
+
+
+Iteration: 13
+Change of new_p is : 0.00608286787965 
+
+
+Iteration: 14
+Change of new_p is : 0.00494858500658 
+
+
+Iteration: 15
+Change of new_p is : 0.00402399489805 
+
+
+Iteration: 16
+Change of new_p is : 0.00327151570565 
+
+
+Iteration: 17
+Change of new_p is : 0.00266218363142 
+
+
+Iteration: 18
+Change of new_p is : 0.00216578554831 
+
+
+Iteration: 19
+Change of new_p is : 0.00176173725747 
+
+
+Iteration: 20
+Change of new_p is : 0.00143298241564 
+
+
+Iteration: 21
+Change of new_p is : 0.00116576221 
+
+
+Iteration: 22
+Change of new_p is : 0.000948323011047 
+
+
+Iteration: 23
+Change of new_p is : 0.000771431106431 
+
+
+Iteration: 24
+Change of new_p is : 0.000627533000245 
+
+
+Iteration: 25
+Change of new_p is : 0.000510489412256 
+
+
+Iteration: 26
+Change of new_p is : 0.000415270401249 
+
+
+Iteration: 27
+Change of new_p is : 0.00033781174674 
+
+
+Iteration: 28
+Change of new_p is : 0.000274801293444 
+
+
+Iteration: 29
+Change of new_p is : 0.000223544709378 
+
+
+Iteration: 30
+Change of new_p is : 0.000181848076914 
+
+
+Iteration: 31
+Change of new_p is : 0.000147928949048 
+
+
+Iteration: 32
+Change of new_p is : 0.000120336612692 
+
+
+Iteration: 33
+Change of new_p is : 9.78909705523e-05 
+
+
