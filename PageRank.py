@@ -1,29 +1,3 @@
-#########################################################################
-#########################################################################
-# In the name of Allah                                      #############
-# GROUP 5                                                   #############
-# NeginLava - HengameNesarizadeh - RoozbehIzadian - RezaGhanbari ########
-#########################################################################
-# ENVIRONMENT INFO                                          #############
-# kali linux distribution                                   #############
-# pycharm 2016.1 IDE                                        #############
-# Written and tested using Python 2.5.                      #############
-# prerequisite python packages:  (numpy, scipy)             #############
-# USE pip install numpy and pip install scipy for installation###########
-#########################################################################
-#########################################################################
-# All documentation files have been attached in main folder #############
-# Generates a random web link structure, and finds the      #############
-# corresponding PageRank vector.  The number of inbound     #############
-# links for each page is controlled by a power law          #############
-# distribution.                                             #############
-# WE USE S PARAMETER (S=.085) LIKE WHAT IS IN MAIN PAGERANK ARTICLE  ####
-#########################################################################
-# This code should work for up to a few million pages on a  #############
-# modest machine.                                           #############
-#########################################################################
-
-
 import numpy
 import random
 
